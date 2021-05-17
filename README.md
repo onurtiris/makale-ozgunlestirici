@@ -4,7 +4,7 @@ Kelime bazlı Türkçe metin çeviri aracı ile özgün makaleler üretmenizi sa
 ![Ekran görüntüsü](http://izovi.com/spinner/screenshot.png)
 
 ### **Çeviri Sayfası**
-**Önizleme:** http://izovi.com/spinner/ \
+**Önizleme:** http://izovi.com/spinner/
 
 ### **Admin Paneli**
 **Önizleme:** http://izovi.com/spinner/admin.php \
