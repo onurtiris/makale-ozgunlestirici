@@ -11,3 +11,9 @@ Kelime bazlı Türkçe metin çeviri aracı ile özgün makaleler üretmenizi sa
 
 # Kurulum
 Oluşturduğunuz veritabanı içerisine `data.sql` dosyasını aktarın ardından `settings.php` içerisine veritabanı bilgilerinizi girin ve admin paneli şifresini belirleyin.
+
+# Özellikler
+- Karakter sınırı
+- Güvenlik doğrulaması
+- Arama, ekleme (iki taraflı) ve silme (tekli)
+- Kelime ve çeviri sayacı
