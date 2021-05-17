@@ -10,7 +10,8 @@ Kelime bazlı Türkçe metin çeviri aracı ile özgün makaleler üretmenizi sa
 **Parola:** 123456
 
 # Kurulum
-Oluşturduğunuz veritabanı içerisine `data.sql` dosyasını aktarın ardından `settings.php` içerisine veritabanı bilgilerinizi girin ve admin paneli şifresini belirleyin.
+1. Oluşturduğunuz veritabanı bilgilerini `settings.php` dosyasına ekleyin ve admin paneli şifresini belirleyin.
+2. Veritabanı yönetim sayfanızda ilgili veritabanına `data.sql` dosyasını içe aktarın.
 
 # Özellikler
 - Karakter sınırı
